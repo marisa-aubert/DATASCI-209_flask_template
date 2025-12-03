@@ -1,7 +1,1 @@
-altair
 flask
-matplotlib
-networkx
-pandas
-scikit-learn
-seaborn
