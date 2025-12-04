@@ -2,7 +2,7 @@
 
 This repo provides a basic flask app for DATASCI 209 students and instructors. You can run this flask app locally for development/debugging or deploy it to [Vercel](https://vercel.com).
 
-*Note there is a size limitatinon of 250MB*, this means you have the careful with which python libraries you include alongside Flash (e.g., sklearn is too big).
+*Note there is a size limitatinon of 250MB*, this means you have the careful with which POython libraries you include alongside `Flask` (e.g., `sklearn` is too big).
 
 ## Getting Started
 
