@@ -17,7 +17,7 @@ def api():
 @app.route("/players/count")
 def getPlayersCount():
     res = cur.execute("SELECT COUNT(*) as ct FROM users")
-    return ("count" : res.fetchone{}[0])
+    return ("count" : res.fetchone()[0])
 
 if __name__ == '__main__':
     app.run()
